@@ -14,6 +14,7 @@ namespace Debugging_NullReferenceException_Demo
             List<string> students = new List<string>();
             students.Add("Suraj");
             students.Add("Jayanth");
+            students.Add("Suraj");
 
             students.Add("Akil");
             students.Add("Supraj");
