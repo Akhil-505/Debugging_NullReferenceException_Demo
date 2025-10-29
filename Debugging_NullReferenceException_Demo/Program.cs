@@ -15,6 +15,7 @@ namespace Debugging_NullReferenceException_Demo
             students.Add("Suraj");
             students.Add("Jayanth");
 
+            students.Add("Akil");
         }
     }
 }
