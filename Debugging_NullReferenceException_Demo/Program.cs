@@ -13,7 +13,8 @@ namespace Debugging_NullReferenceException_Demo
             //List<string> students = null;
             List<string> students = new List<string>();
             students.Add("Suraj");
-            students.Add("Jayanth2");
+            students.Add("Jayanth");
+            students.Add("Suraj");
             students.Add("Akil");
         }
     }
